@@ -1,0 +1,28 @@
+{
+  "name": "js-y9h1an",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "swiper": "^5.3.0"
+  }
+}
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codesandbox-app/static-template.git"
+  },
+  "keywords": [
+    "static",
+    "template",
+    "codesandbox"
+  ],
+  "author": "Ives van Hoorne",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codesandbox-app/static-template/issues"
+  },
+  "homepage": "https://github.com/codesandbox-app/static-template#readme",
+  "devDependencies": {
+    "serve": "^11.2.0"
+  }
+}
